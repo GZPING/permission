@@ -5,4 +5,5 @@ package top.petter.permission.framework.core.entry;
  * @date :2021/3/2 : 19:08
  */
 public class FunctionPermission {
+
 }
